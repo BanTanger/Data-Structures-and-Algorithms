@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="test 222.2.28">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/queue/ArrayQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/queue/CircleArrayQueueDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bantanger/sparsearray/SparesArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bantanger/sparsearray/SparesArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bantanger/sparsearray/Test1248.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bantanger/queue/ArrayQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bantanger/queue/ArrayQueueDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,33 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CircleArrayQueueDemo">
+    <configuration name="ArrayQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.queue.ArrayQueueDemo" />
+      <module name="Data-Structures-and-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircleArrayQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.queue.CircleArrayQueueDemo" />
+      <module name="Data-Structures-and-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SparesArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bantanger.sparsearray.SparesArray" />
       <module name="Data-Structures-and-Algorithms" />
@@ -72,6 +97,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CircleArrayQueueDemo" />
+        <item itemvalue="Application.ArrayQueueDemo" />
         <item itemvalue="Application.SparesArray" />
       </list>
     </recent_temporary>
@@ -88,7 +115,7 @@
       <workItem from="1646019437308" duration="1440000" />
       <workItem from="1646021331061" duration="453000" />
       <workItem from="1646021803149" duration="1334000" />
-      <workItem from="1646023167904" duration="9080000" />
+      <workItem from="1646023167904" duration="17095000" />
     </task>
     <task id="LOCAL-00001" summary="test 222.2.28">
       <created>1646021578883</created>
@@ -132,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646026901551</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test 222.2.28">
+      <created>1646034332314</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1646034332314</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
