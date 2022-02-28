@@ -1,0 +1,15 @@
+Index: src/com/bantanger/sparsearray/Test1248.java
+===================================================================
+diff --git a/src/com/bantanger/sparsearray/Test1248.java b/src/com/bantanger/sparsearray/Test1248.java
+deleted file mode 100644
+--- a/src/com/bantanger/sparsearray/Test1248.java	(revision bf9b9a4899945a2005c30c4c2c864fe44a17009d)
++++ /dev/null	(revision bf9b9a4899945a2005c30c4c2c864fe44a17009d)
+@@ -1,8 +0,0 @@
+-package com.bantanger.sparsearray;
+-
+-/**
+- * @author bantanger 半糖
+- * @version 1.0
+- */
+-public class Test1248 {
+-}
