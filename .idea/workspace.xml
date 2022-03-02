@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="test 22.2.28">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/linkedlist/SingleLinkedListDemo.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="test 22.3.1">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/linkedlist/DoubleLinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/linkedlist/Josepfu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/stack/ArrayStackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/stack/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,13 +66,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.SingleLinkedListDemo">
-    <configuration name="ArrayQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.queue.ArrayQueueDemo" />
+  <component name="RunManager" selected="Application.ArrayStackDemo">
+    <configuration name="ArrayStackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.stack.ArrayStackDemo" />
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bantanger.queue.*" />
+          <option name="PATTERN" value="com.bantanger.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,6 +93,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DoubleLinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.linkedlist.DoubleLinkedListDemo" />
+      <module name="Data-Structures-and-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Josepfu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.linkedlist.Josepfu" />
+      <module name="Data-Structures-and-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SingleLinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bantanger.linkedlist.SingleLinkedListDemo" />
       <module name="Data-Structures-and-Algorithms" />
@@ -104,25 +132,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SparesArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.sparsearray.SparesArray" />
-      <module name="Data-Structures-and-Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bantanger.sparsearray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayStackDemo" />
+        <item itemvalue="Application.Josepfu" />
+        <item itemvalue="Application.DoubleLinkedListDemo" />
         <item itemvalue="Application.SingleLinkedListDemo" />
         <item itemvalue="Application.CircleArrayQueueDemo" />
-        <item itemvalue="Application.ArrayQueueDemo" />
-        <item itemvalue="Application.SparesArray" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +155,7 @@
       <workItem from="1646021331061" duration="453000" />
       <workItem from="1646021803149" duration="1334000" />
       <workItem from="1646023167904" duration="18293000" />
-      <workItem from="1646112218830" duration="14554000" />
+      <workItem from="1646112218830" duration="44327000" />
     </task>
     <task id="LOCAL-00001" summary="test 222.2.28">
       <created>1646021578883</created>
@@ -197,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646050740482</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="test 22.3.1">
+      <created>1646141107425</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1646141107425</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,7 +240,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test 222.2.28" />
     <MESSAGE value="test 22.2.28" />
-    <option name="LAST_COMMIT_MESSAGE" value="test 22.2.28" />
+    <MESSAGE value="test 22.3.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="test 22.3.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -226,6 +250,11 @@
           <url>file://$PROJECT_DIR$/src/com/bantanger/linkedlist/SingleLinkedListDemo.java</url>
           <line>38</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bantanger/stack/ArrayStackDemo.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
