@@ -37,7 +37,7 @@ public class DoubleLinkedListDemo {
         ListNode listNode5 = new ListNode(4, 45);
         ListNode listNode6 = new ListNode(3, 45);
         doubleLinkedList.addByOrder(listNode5);
-        doubleLinkedList.addByOrder(listNode6 );
+        doubleLinkedList.addByOrder(listNode6);
         doubleLinkedList.show();
     }
 }
