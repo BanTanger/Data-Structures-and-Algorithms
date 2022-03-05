@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="test 22.3.3">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/sort/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/sort/mergesort/CalSmallSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/sort/mergesort/MergeSort.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="test 22.3.4">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/heap/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/sort/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bantanger/linkedlist/RemoveValue.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +165,7 @@
       <workItem from="1646021331061" duration="453000" />
       <workItem from="1646021803149" duration="1334000" />
       <workItem from="1646023167904" duration="18293000" />
-      <workItem from="1646112218830" duration="77551000" />
+      <workItem from="1646112218830" duration="85819000" />
     </task>
     <task id="LOCAL-00001" summary="test 222.2.28">
       <created>1646021578883</created>
@@ -246,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646318109707</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="test 22.3.4">
+      <created>1646406629828</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1646406629829</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,7 +276,8 @@
     <MESSAGE value="test 22.3.1" />
     <MESSAGE value="test 22.3.2" />
     <MESSAGE value="test 22.3.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="test 22.3.3" />
+    <MESSAGE value="test 22.3.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="test 22.3.4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -285,11 +291,6 @@
           <url>file://$PROJECT_DIR$/src/com/bantanger/stack/ArrayStackDemo.java</url>
           <line>36</line>
           <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/bantanger/sort/mergesort/CalSmallSum.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
