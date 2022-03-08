@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="test 22.3.5">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/linkedlist/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/linkedlist/SmallerEqualsBiggerQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/orderlist/API.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/tree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/tree/OrderRecur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/tree/OrderUnRecur.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="test 22.3.6">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/tree/UniteOrderUnRecur.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +60,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java-Rear-End-main" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -175,7 +171,8 @@
       <workItem from="1646021331061" duration="453000" />
       <workItem from="1646021803149" duration="1334000" />
       <workItem from="1646023167904" duration="18293000" />
-      <workItem from="1646112218830" duration="111042000" />
+      <workItem from="1646112218830" duration="124287000" />
+      <workItem from="1646644812750" duration="3384000" />
     </task>
     <task id="LOCAL-00001" summary="test 222.2.28">
       <created>1646021578883</created>
@@ -268,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646523642795</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="test 22.3.6">
+      <created>1646562604558</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1646562604558</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,7 +299,8 @@
     <MESSAGE value="test 22.3.3" />
     <MESSAGE value="test 22.3.4" />
     <MESSAGE value="test 22.3.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="test 22.3.5" />
+    <MESSAGE value="test 22.3.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="test 22.3.6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
