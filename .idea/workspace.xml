@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="test 22.3.6">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/tree/UniteOrderUnRecur.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="test 22.3.8">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/tree/N_aryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +73,7 @@
       <recent name="com.bantanger.linkedlist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CalSmallSum">
+  <component name="RunManager" selected="JUnit.Test2.Test6">
     <configuration name="CalSmallSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bantanger.sort.mergesort.CalSmallSum" />
       <module name="Data-Structures-and-Algorithms" />
@@ -132,17 +131,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort.Test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Test2.Test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bantanger.sort.mergesort.*" />
+          <option name="PATTERN" value="com.bantanger.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.sort.mergesort" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.sort.mergesort.MergeSort" />
-      <option name="METHOD_NAME" value="Test3" />
+      <option name="PACKAGE_NAME" value="com.bantanger" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.Test2" />
+      <option name="METHOD_NAME" value="Test6" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -150,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Test2.Test6" />
         <item itemvalue="Application.CalSmallSum" />
         <item itemvalue="JUnit.CalSmallSum.calsmallsum" />
         <item itemvalue="JUnit.CalSmallSum" />
         <item itemvalue="Application.MergeSort" />
-        <item itemvalue="JUnit.MergeSort.Test3" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +171,7 @@
       <workItem from="1646021803149" duration="1334000" />
       <workItem from="1646023167904" duration="18293000" />
       <workItem from="1646112218830" duration="124287000" />
-      <workItem from="1646644812750" duration="3384000" />
+      <workItem from="1646644812750" duration="7904000" />
     </task>
     <task id="LOCAL-00001" summary="test 222.2.28">
       <created>1646021578883</created>
@@ -272,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646562604558</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="test 22.3.8">
+      <created>1646748497572</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1646748497572</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,7 +306,8 @@
     <MESSAGE value="test 22.3.4" />
     <MESSAGE value="test 22.3.5" />
     <MESSAGE value="test 22.3.6" />
-    <option name="LAST_COMMIT_MESSAGE" value="test 22.3.6" />
+    <MESSAGE value="test 22.3.8" />
+    <option name="LAST_COMMIT_MESSAGE" value="test 22.3.8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
