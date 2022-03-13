@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="test 22.3.11">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/recur/BackPack_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/recur/NumberSquenceToString.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="test 22.3.12">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/tree/BuildTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bantanger/greedy/lessMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bantanger/greedy/lessMoney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bantanger/recur/BackPack_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bantanger/recur/BackPack_01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +177,7 @@
       <workItem from="1646112218830" duration="124287000" />
       <workItem from="1646644812750" duration="7904000" />
       <workItem from="1646972594678" duration="17471000" />
-      <workItem from="1647055719462" duration="4360000" />
+      <workItem from="1647055719462" duration="12292000" />
     </task>
     <task id="LOCAL-00001" summary="test 222.2.28">
       <created>1646021578883</created>
@@ -292,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646999238438</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="test 22.3.12">
+      <created>1647073125797</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1647073125797</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,7 +328,8 @@
     <MESSAGE value="test 22.3.6" />
     <MESSAGE value="test 22.3.8" />
     <MESSAGE value="test 22.3.11" />
-    <option name="LAST_COMMIT_MESSAGE" value="test 22.3.11" />
+    <MESSAGE value="test 22.3.12" />
+    <option name="LAST_COMMIT_MESSAGE" value="test 22.3.12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

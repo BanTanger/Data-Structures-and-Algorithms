@@ -38,6 +38,4 @@ public class BackPack_01 {
         }
         return Math.max(p1, p2);
     }
-
-
 }
