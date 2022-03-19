@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="test 22.3.14">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_216.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_77.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="test 22.3.18">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_40_StartIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_40_usedArr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -177,7 +176,7 @@
       <workItem from="1646644812750" duration="7904000" />
       <workItem from="1646972594678" duration="17471000" />
       <workItem from="1647055719462" duration="22130000" />
-      <workItem from="1647595712612" duration="2734000" />
+      <workItem from="1647595712612" duration="6939000" />
     </task>
     <task id="LOCAL-00001" summary="test 222.2.28">
       <created>1646021578883</created>
@@ -312,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647263865582</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="test 22.3.18">
+      <created>1647607241327</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1647607241328</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -345,7 +351,8 @@
     <MESSAGE value="test 22.3.12" />
     <MESSAGE value="test 22.3.13" />
     <MESSAGE value="test 22.3.14" />
-    <option name="LAST_COMMIT_MESSAGE" value="test 22.3.14" />
+    <MESSAGE value="test 22.3.18" />
+    <option name="LAST_COMMIT_MESSAGE" value="test 22.3.18" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
