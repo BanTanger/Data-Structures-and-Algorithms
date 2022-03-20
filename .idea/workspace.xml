@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="test 22.3.18">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_40_StartIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_40_usedArr.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.3.19 - 9:32">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_93_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_93_StringBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,20 +75,7 @@
       <recent name="com.bantanger.linkedlist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LC_216">
-    <configuration name="CalSmallSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.sort.mergesort.CalSmallSum" />
-      <module name="Data-Structures-and-Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bantanger.sort.mergesort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.LC_93_StringBuilder.Test">
     <configuration name="LC_216" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.backtracking.LC_216" />
       <module name="Data-Structures-and-Algorithms" />
@@ -101,48 +89,62 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalSmallSum.calsmallsum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC_93_String" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bantanger.sort.mergesort.*" />
+          <option name="PATTERN" value="com.bantanger.leetcode.backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.sort.mergesort" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.sort.mergesort.CalSmallSum" />
-      <option name="METHOD_NAME" value="calsmallsum" />
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.backtracking" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.backtracking.LC_93_String" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC_93_StringBuilder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures-and-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.leetcode.backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.backtracking" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.backtracking.LC_93_StringBuilder" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC_93_StringBuilder.Test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures-and-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.leetcode.backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.backtracking" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.backtracking.LC_93_StringBuilder" />
+      <option name="METHOD_NAME" value="Test(com.bantanger.leetcode.backtracking.LC_93_StringBuilder$Solution)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2.Test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC_93_StringBuilder.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bantanger.*" />
+          <option name="PATTERN" value="com.bantanger.leetcode.backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.Test2" />
-      <option name="METHOD_NAME" value="Test6" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lessMoney.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Data-Structures-and-Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bantanger.greedy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.greedy" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.greedy.lessMoney" />
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.backtracking" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.backtracking.LC_93_StringBuilder" />
       <option name="METHOD_NAME" value="Test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -151,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LC_93_StringBuilder.Test" />
+        <item itemvalue="JUnit.LC_93_StringBuilder" />
+        <item itemvalue="JUnit.LC_93_String" />
+        <item itemvalue="JUnit.LC_93_StringBuilder.Test (1)" />
         <item itemvalue="Application.LC_216" />
-        <item itemvalue="JUnit.lessMoney.Test" />
-        <item itemvalue="JUnit.Test2.Test6" />
-        <item itemvalue="Application.CalSmallSum" />
-        <item itemvalue="JUnit.CalSmallSum.calsmallsum" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +178,7 @@
       <workItem from="1646644812750" duration="7904000" />
       <workItem from="1646972594678" duration="17471000" />
       <workItem from="1647055719462" duration="22130000" />
-      <workItem from="1647595712612" duration="6939000" />
+      <workItem from="1647595712612" duration="19035000" />
     </task>
     <task id="LOCAL-00001" summary="test 222.2.28">
       <created>1646021578883</created>
@@ -318,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647607241328</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Commit 22.3.19 - 9:32">
+      <created>1647653591181</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1647653591181</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,7 +361,8 @@
     <MESSAGE value="test 22.3.13" />
     <MESSAGE value="test 22.3.14" />
     <MESSAGE value="test 22.3.18" />
-    <option name="LAST_COMMIT_MESSAGE" value="test 22.3.18" />
+    <MESSAGE value="Commit 22.3.19 - 9:32" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.3.19 - 9:32" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -366,6 +376,26 @@
           <url>file://$PROJECT_DIR$/src/com/bantanger/stack/ArrayStackDemo.java</url>
           <line>36</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_93_StringBuilder.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_93_String.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_93_String.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_93_StringBuilder.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
