@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.3.19 - 9:32">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_131.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_93_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_93_StringBuilder.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.3.20 - 19:37">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_90.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,9 +74,8 @@
       <recent name="com.bantanger.linkedlist" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC_93_StringBuilder.Test">
-    <configuration name="LC_216" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.backtracking.LC_216" />
+  <component name="RunManager" selected="JUnit.LC_78.Test">
+    <configuration name="LC_78.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -85,6 +83,10 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.backtracking" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.backtracking.LC_78" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -153,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LC_78.Test" />
         <item itemvalue="JUnit.LC_93_StringBuilder.Test" />
         <item itemvalue="JUnit.LC_93_StringBuilder" />
         <item itemvalue="JUnit.LC_93_String" />
         <item itemvalue="JUnit.LC_93_StringBuilder.Test (1)" />
-        <item itemvalue="Application.LC_216" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +180,7 @@
       <workItem from="1646644812750" duration="7904000" />
       <workItem from="1646972594678" duration="17471000" />
       <workItem from="1647055719462" duration="22130000" />
-      <workItem from="1647595712612" duration="19035000" />
+      <workItem from="1647595712612" duration="21076000" />
     </task>
     <task id="LOCAL-00001" summary="test 222.2.28">
       <created>1646021578883</created>
@@ -327,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647653591181</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Commit 22.3.20 - 19:37">
+      <created>1647776268777</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1647776268777</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -362,7 +371,8 @@
     <MESSAGE value="test 22.3.14" />
     <MESSAGE value="test 22.3.18" />
     <MESSAGE value="Commit 22.3.19 - 9:32" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.3.19 - 9:32" />
+    <MESSAGE value="Commit 22.3.20 - 19:37" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.3.20 - 19:37" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -396,6 +406,16 @@
           <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_93_StringBuilder.java</url>
           <line>61</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_78.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_78.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
