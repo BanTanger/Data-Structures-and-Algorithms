@@ -1,4 +1,4 @@
-package com.bantanger;
+package com.bantanger.leetcode.backtracking;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -29,7 +29,12 @@ public class BackTrackingPrintFunction {
         return res;
     }
 
-
+    /**
+     * 回溯过程分析
+     * @param candidates 对象
+     * @param target 目标
+     * @param start 开始位置
+     */
     private void getCombination(int[] candidates, int target, int start) {
         if (sum > target) {
             return;

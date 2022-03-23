@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.3.21 - 20:30">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_46_Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_46_PermutationsⅡ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_491_IncreasingSubsequences.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.3.22 - 23.01">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_332.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bantanger/BackTrackingPrintFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/BackTrackingPrintFunction.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java-Rear-End-main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/bantanger" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -74,8 +73,57 @@
       <recent name="com.bantanger.tree" />
       <recent name="com.bantanger.linkedlist" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java 学习项目集合\Data-Structures-and-Algorithms\src\com\bantanger" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC_46_PermutationsⅡ.test">
+  <component name="RunManager" selected="JUnit.LC_332 (1)">
+    <configuration name="LC_332 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures-and-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.leetcode.backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.backtracking" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.backtracking.LC_332" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC_332" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures-and-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.leetcode.backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.backtracking" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.backtracking.LC_332" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC_332.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures-and-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.leetcode.backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.backtracking" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.backtracking.LC_332" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LC_46_Permutations.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
@@ -108,60 +156,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC_78.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Data-Structures-and-Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.backtracking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.backtracking" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.backtracking.LC_78" />
-      <option name="METHOD_NAME" value="Test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LC_93_StringBuilder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Data-Structures-and-Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.backtracking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.backtracking" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.backtracking.LC_93_StringBuilder" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LC_93_StringBuilder.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Data-Structures-and-Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.backtracking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.backtracking" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.backtracking.LC_93_StringBuilder" />
-      <option name="METHOD_NAME" value="Test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LC_332 (1)" />
+        <item itemvalue="JUnit.LC_332.Test" />
+        <item itemvalue="JUnit.LC_332" />
         <item itemvalue="JUnit.LC_46_PermutationsⅡ.test" />
         <item itemvalue="JUnit.LC_46_Permutations.test" />
-        <item itemvalue="JUnit.LC_78.Test" />
-        <item itemvalue="JUnit.LC_93_StringBuilder.Test" />
-        <item itemvalue="JUnit.LC_93_StringBuilder" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +183,7 @@
       <workItem from="1646644812750" duration="7904000" />
       <workItem from="1646972594678" duration="17471000" />
       <workItem from="1647055719462" duration="22130000" />
-      <workItem from="1647595712612" duration="26867000" />
+      <workItem from="1647595712612" duration="39311000" />
     </task>
     <task id="LOCAL-00001" summary="test 222.2.28">
       <created>1646021578883</created>
@@ -345,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647865860904</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Commit 22.3.22 - 23.01">
+      <created>1647961324957</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1647961324957</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -382,7 +390,8 @@
     <MESSAGE value="Commit 22.3.19 - 9:32" />
     <MESSAGE value="Commit 22.3.20 - 19:37" />
     <MESSAGE value="Commit 22.3.21 - 20:30" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.3.21 - 20:30" />
+    <MESSAGE value="Commit 22.3.22 - 23.01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.3.22 - 23.01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -446,6 +455,16 @@
           <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_46_PermutationsⅡ.java</url>
           <line>34</line>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_332.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_332.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
