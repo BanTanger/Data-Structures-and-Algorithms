@@ -35,6 +35,7 @@ public class LC_491_IncreasingSubsequences {
                     !path.isEmpty() 因为后面需要取用path的元素，要考虑当前path是否为空，不然会编译错误
                     nums[i] < path.get(path.size() - 1)，判断当前是否满足递增子序列，注意给出的元素集合是乱序的
                     (used[nums[i] + 100] == 1) 哈希数组中查到当前遍历的元素是重复出现的，直接continue
+                    [nums[i] + 100] 的目的是防止下标为负数，将nums数组整体从左移到右，[0,201]
                  */
                 used[nums[i] + 100] = 1; // 标记当前元素，哈希数组
                 path.add(nums[i]);
