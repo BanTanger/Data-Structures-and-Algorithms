@@ -1,5 +1,7 @@
 package com.bantanger.leetcode.greedy;
 
+import org.junit.jupiter.api.Test;
+
 /**
  * @author bantanger 半糖
  * @version 1.0
@@ -16,7 +18,14 @@ public class LC_53 {
                 sum = Math.max(sum, count);
                 if (count <= 0) count = 0;
             }
+
             return sum;
         }
+    }
+    @Test
+    public void test(){
+        Integer integer1 = new Integer(1234);
+        Integer integer = Integer.valueOf(1234);
+        System.out.println(integer == integer1);
     }
 }
