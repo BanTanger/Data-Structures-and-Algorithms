@@ -22,10 +22,4 @@ public class LC_53 {
             return sum;
         }
     }
-    @Test
-    public void test(){
-        Integer integer1 = new Integer(1234);
-        Integer integer = Integer.valueOf(1234);
-        System.out.println(integer == integer1);
-    }
 }

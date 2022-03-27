@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.3.25 - 11.35">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/greedy/LC_122.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/greedy/LC_55_JumpGame.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.3.26 - 22.06">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/greedy/LC_1005.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bantanger/leetcode/greedy/LC_45_JumpGameⅡ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/greedy/LC_45_JumpGameⅡ.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bantanger/leetcode/greedy/LC_53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/greedy/LC_53.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -184,7 +184,7 @@
       <workItem from="1647055719462" duration="22130000" />
       <workItem from="1647595712612" duration="42106000" />
       <workItem from="1648044606468" duration="18441000" />
-      <workItem from="1648281735683" duration="5603000" />
+      <workItem from="1648281735683" duration="8867000" />
     </task>
     <task id="LOCAL-00001" summary="test 222.2.28">
       <created>1646021578883</created>
@@ -375,7 +375,21 @@
       <option name="project" value="LOCAL" />
       <updated>1648179255190</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Commit 22.3.26 - 22.06">
+      <created>1648303579333</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1648303579334</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Commit 22.3.26 - 22.06">
+      <created>1648303673392</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1648303673392</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -416,7 +430,8 @@
     <MESSAGE value="Commit 22.3.23 - 17.17" />
     <MESSAGE value="Commit 22.3.24 - 18.56" />
     <MESSAGE value="Commit 22.3.25 - 11.35" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.3.25 - 11.35" />
+    <MESSAGE value="Commit 22.3.26 - 22.06" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.3.26 - 22.06" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
