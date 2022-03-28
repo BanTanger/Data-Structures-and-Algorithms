@@ -1,5 +1,7 @@
 package com.bantanger.leetcode.greedy;
 
+import org.junit.jupiter.api.Test;
+
 /**
  * @author bantanger 半糖
  * @version 1.0
