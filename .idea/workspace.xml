@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.3.28 - 21.07">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/greedy/LC_860.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.3.28 - 22.12">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/greedy/LC_406.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,16 +77,79 @@
       <recent name="E:\Java 学习项目集合\Data-Structures-and-Algorithms\src" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC_860_my">
-    <configuration name="ShapeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.ShapeTest" />
+  <component name="RunManager" selected="JUnit.LC_406 (4)">
+    <configuration name="LC_406 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bantanger.*" />
+          <option name="PATTERN" value="com.bantanger.leetcode.greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.greedy" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.greedy.LC_406" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC_406 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures-and-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.leetcode.greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.greedy" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.greedy.LC_406" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC_406 (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures-and-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.leetcode.greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.greedy" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.greedy.LC_406" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC_406 (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures-and-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.leetcode.greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.greedy" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.greedy.LC_406" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC_406.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures-and-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.leetcode.greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.greedy" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.greedy.LC_406" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -136,21 +199,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC_860" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Data-Structures-and-Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.greedy.LC_860" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.greedy" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.greedy.LC_860" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LC_860_my" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
@@ -177,33 +225,17 @@
       <option name="PACKAGE_NAME" value="com.bantanger.leetcode.greedy" />
       <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.greedy.LC_860_my" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LC_860.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Data-Structures-and-Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.greedy.LC_860" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.greedy" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.greedy.LC_860" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LC_860_my" />
-        <item itemvalue="JUnit.LC_860_my" />
-        <item itemvalue="JUnit.LC_860.test" />
-        <item itemvalue="JUnit.LC_860_my" />
-        <item itemvalue="Application.ShapeTest" />
+        <item itemvalue="JUnit.LC_406 (4)" />
+        <item itemvalue="JUnit.LC_406 (3)" />
+        <item itemvalue="JUnit.LC_406 (2)" />
+        <item itemvalue="JUnit.LC_406.test" />
+        <item itemvalue="JUnit.LC_406 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +259,7 @@
       <workItem from="1647595712612" duration="42106000" />
       <workItem from="1648044606468" duration="18441000" />
       <workItem from="1648281735683" duration="14600000" />
-      <workItem from="1648465599344" duration="2733000" />
+      <workItem from="1648465599344" duration="10537000" />
     </task>
     <task id="LOCAL-00001" summary="test 222.2.28">
       <created>1646021578883</created>
@@ -446,7 +478,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648472871317</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Commit 22.3.28 - 22.12">
+      <created>1648476768380</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1648476768380</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,7 +529,8 @@
     <MESSAGE value="Commit 22.3.26 - 22.06" />
     <MESSAGE value="Commit 22.3.27 - 10.09" />
     <MESSAGE value="Commit 22.3.28 - 21.07" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.3.28 - 21.07" />
+    <MESSAGE value="Commit 22.3.28 - 22.12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.3.28 - 22.12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -579,6 +619,16 @@
           <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC_37_Sudoku.java</url>
           <line>32</line>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/greedy/LC_406.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/greedy/LC_406.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
