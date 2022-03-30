@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.3.28 - 22.12">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/greedy/LC_406.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.3.29 - 12.16">
+      <changelist_data name="bantanger" email="" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/greedy/LC_452.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,8 +78,9 @@
       <recent name="E:\Java 学习项目集合\Data-Structures-and-Algorithms\src" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC_406 (4)">
-    <configuration name="LC_406 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.LC_452">
+    <configuration name="LC_452" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.greedy.LC_452" />
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -86,9 +88,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.greedy" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.greedy.LC_406" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -231,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC_452" />
         <item itemvalue="JUnit.LC_406 (4)" />
         <item itemvalue="JUnit.LC_406 (3)" />
         <item itemvalue="JUnit.LC_406 (2)" />
         <item itemvalue="JUnit.LC_406.test" />
-        <item itemvalue="JUnit.LC_406 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +258,7 @@
       <workItem from="1647595712612" duration="42106000" />
       <workItem from="1648044606468" duration="18441000" />
       <workItem from="1648281735683" duration="14600000" />
-      <workItem from="1648465599344" duration="10537000" />
+      <workItem from="1648465599344" duration="18694000" />
     </task>
     <task id="LOCAL-00001" summary="test 222.2.28">
       <created>1646021578883</created>
@@ -485,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648476768380</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Commit 22.3.29 - 12.16">
+      <created>1648527397759</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1648527397759</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -505,7 +511,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="test 222.2.28" />
     <MESSAGE value="test 22.2.28" />
     <MESSAGE value="test 22.3.1" />
     <MESSAGE value="test 22.3.2" />
@@ -530,7 +535,8 @@
     <MESSAGE value="Commit 22.3.27 - 10.09" />
     <MESSAGE value="Commit 22.3.28 - 21.07" />
     <MESSAGE value="Commit 22.3.28 - 22.12" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.3.28 - 22.12" />
+    <MESSAGE value="Commit 22.3.29 - 12.16" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.3.29 - 12.16" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
