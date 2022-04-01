@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.3.30 - 10.16">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/greedy/LC_435.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/greedy/LC_56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/greedy/LC_763.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.3.31 - 20.20">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_509.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/greedy/LC_738.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -221,7 +220,7 @@
       <workItem from="1648044606468" duration="18441000" />
       <workItem from="1648281735683" duration="14600000" />
       <workItem from="1648465599344" duration="19894000" />
-      <workItem from="1648684152078" duration="3671000" />
+      <workItem from="1648684152078" duration="13297000" />
     </task>
     <task id="LOCAL-00001" summary="test 222.2.28">
       <created>1646021578883</created>
@@ -461,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648641488279</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Commit 22.3.31 - 20.20">
+      <created>1648729242914</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1648729242915</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -481,7 +487,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="test 22.3.1" />
     <MESSAGE value="test 22.3.2" />
     <MESSAGE value="test 22.3.3" />
     <MESSAGE value="test 22.3.4" />
@@ -506,7 +511,8 @@
     <MESSAGE value="Commit 22.3.28 - 22.12" />
     <MESSAGE value="Commit 22.3.29 - 12.16" />
     <MESSAGE value="Commit 22.3.30 - 10.16" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.3.30 - 10.16" />
+    <MESSAGE value="Commit 22.3.31 - 20.20" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.3.31 - 20.20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -615,11 +621,6 @@
           <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/greedy/LC_435.java</url>
           <line>20</line>
           <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/greedy/LC_56.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/greedy/LC_56.java</url>
