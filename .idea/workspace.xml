@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.3.31 - 20.20">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_509.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/greedy/LC_738.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.4.1 - 20.20">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/LC_744_2022_04_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_62_DP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_62_Math_Combination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_63_UniquePathⅡ.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bantanger/leetcode/greedy/LC_738.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/greedy/LC_738.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,9 +88,9 @@
       <recent name="E:\Java 学习项目集合\Data-Structures-and-Algorithms\src" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC_56 (1)">
-    <configuration name="LC_452" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.greedy.LC_452" />
+  <component name="RunManager" selected="JUnit.LC_56">
+    <configuration name="LC_738" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.greedy.LC_738" />
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -98,17 +102,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC_435" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringBufferDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.StringBufferDemo" />
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.greedy.*" />
+          <option name="PATTERN" value="com.bantanger.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.greedy" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.greedy.LC_435" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -159,43 +161,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC_860" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Data-Structures-and-Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.greedy.LC_860" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.greedy" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.greedy.LC_860" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LC_860_my" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Data-Structures-and-Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.greedy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.greedy" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.greedy.LC_860_my" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LC_56 (1)" />
         <item itemvalue="JUnit.LC_56" />
+        <item itemvalue="JUnit.LC_56 (1)" />
         <item itemvalue="JUnit.LC_435.test" />
-        <item itemvalue="JUnit.LC_435" />
-        <item itemvalue="Application.LC_452" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +190,11 @@
       <workItem from="1648044606468" duration="18441000" />
       <workItem from="1648281735683" duration="14600000" />
       <workItem from="1648465599344" duration="19894000" />
-      <workItem from="1648684152078" duration="13297000" />
+      <workItem from="1648684152078" duration="13910000" />
+      <workItem from="1648801583384" duration="4967000" />
+      <workItem from="1648892203076" duration="15000" />
+      <workItem from="1648892249295" duration="41000" />
+      <workItem from="1648892333912" duration="3475000" />
     </task>
     <task id="LOCAL-00001" summary="test 222.2.28">
       <created>1646021578883</created>
@@ -467,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648729242915</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Commit 22.4.1 - 20.20">
+      <created>1648794254352</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1648794254352</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,7 +468,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="test 22.3.2" />
     <MESSAGE value="test 22.3.3" />
     <MESSAGE value="test 22.3.4" />
     <MESSAGE value="test 22.3.5" />
@@ -512,7 +492,8 @@
     <MESSAGE value="Commit 22.3.29 - 12.16" />
     <MESSAGE value="Commit 22.3.30 - 10.16" />
     <MESSAGE value="Commit 22.3.31 - 20.20" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.3.31 - 20.20" />
+    <MESSAGE value="Commit 22.4.1 - 20.20" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.4.1 - 20.20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

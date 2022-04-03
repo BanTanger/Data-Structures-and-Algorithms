@@ -1,5 +1,8 @@
 package com.bantanger.leetcode.greedy;
 
+import java.util.LinkedList;
+import java.util.Random;
+
 /**
  * @author bantanger 半糖
  * @version 1.0
@@ -27,5 +30,4 @@ public class LC_738 {
             return Integer.parseInt(res.toString());
         }
     }
-
 }
