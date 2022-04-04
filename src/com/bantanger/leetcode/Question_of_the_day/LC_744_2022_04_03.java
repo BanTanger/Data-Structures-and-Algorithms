@@ -1,5 +1,7 @@
 package com.bantanger.leetcode.Question_of_the_day;
 
+import org.junit.jupiter.api.Test;
+
 /**
  * @author bantanger 半糖
  * @version 1.0
@@ -28,5 +30,15 @@ public class LC_744_2022_04_03 {
             }
             return letters[right] > target ? letters[right] : letters[0];
         }
+    }
+    @Test
+    public void test() {
+        int temp = 0;
+        for(int i = 1; i < 5;i++){
+            for(int j = 0; j < 2;j++){
+                temp++;
+            }
+        }
+        System.out.println(temp);
     }
 }
