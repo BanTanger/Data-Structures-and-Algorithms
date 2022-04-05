@@ -1,5 +1,7 @@
 package com.bantanger.leetcode.dynamic_programming;
 
+import org.junit.jupiter.api.Test;
+
 /**
  * @author bantanger 半糖
  * @version 1.0
@@ -19,6 +21,18 @@ public class LC_96 {
                 }
             }
             return dp[n];
+        }
+    }
+    @Test
+    public void Test(){
+        for(int i = 1;i <= 5; i++){
+            for(int j = 1; j <= 5 - i; j++){
+                System.out.print(" ");
+            }
+            for(int j = 1; j <= i; j++){
+                System.out.print(i);
+            }
+            System.out.println();
         }
     }
 }
