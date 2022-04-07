@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.4.5 - 20.39">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_416.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/One_Dimensional_dp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/Two_Dimensional_dp.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.4.6 - 12:53">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_1046.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_494.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_796.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_796_Simulation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bantanger/StringDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_416.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_416.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -85,25 +86,25 @@
       <recent name="E:\Java 学习项目集合\Data-Structures-and-Algorithms\src\com\bantanger" />
       <recent name="E:\Java 学习项目集合\Data-Structures-and-Algorithms\src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bantanger.leetcode.dynamic_programming" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.SystemDemo.Test">
-    <configuration name="CalendarDemo.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LC_796 (2)">
+    <configuration name="LC_416" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.dynamic_programming.LC_416" />
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bantanger.*" />
+          <option name="PATTERN" value="com.bantanger.leetcode.dynamic_programming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.CalendarDemo" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="One_Dimensional_dp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC_796 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -112,40 +113,38 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.bantanger.leetcode.dynamic_programming" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.dynamic_programming.One_Dimensional_dp" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.dynamic_programming.LC_796" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomDemo.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC_796 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bantanger.*" />
+          <option name="PATTERN" value="com.bantanger.leetcode.dynamic_programming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.RandomDemo" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.dynamic_programming" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.dynamic_programming.LC_796" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringDemo.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC_796" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bantanger.*" />
+          <option name="PATTERN" value="com.bantanger.leetcode.dynamic_programming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.StringDemo" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.dynamic_programming" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.dynamic_programming.LC_796" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -168,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LC_796 (2)" />
+        <item itemvalue="JUnit.LC_796 (1)" />
+        <item itemvalue="JUnit.LC_796" />
+        <item itemvalue="Application.LC_416" />
         <item itemvalue="JUnit.SystemDemo.Test" />
-        <item itemvalue="JUnit.RandomDemo.test" />
-        <item itemvalue="JUnit.CalendarDemo.test" />
-        <item itemvalue="JUnit.StringDemo.test" />
-        <item itemvalue="JUnit.One_Dimensional_dp" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +200,7 @@
       <workItem from="1648801583384" duration="4967000" />
       <workItem from="1648892203076" duration="15000" />
       <workItem from="1648892249295" duration="41000" />
-      <workItem from="1648892333912" duration="19857000" />
+      <workItem from="1648892333912" duration="28489000" />
     </task>
     <task id="LOCAL-00001" summary="test 222.2.28">
       <created>1646021578883</created>
@@ -476,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649167224561</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Commit 22.4.6 - 12:53">
+      <created>1649220809501</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1649220809501</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -496,7 +502,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="test 22.3.6" />
     <MESSAGE value="test 22.3.8" />
     <MESSAGE value="test 22.3.11" />
     <MESSAGE value="test 22.3.12" />
@@ -521,7 +526,8 @@
     <MESSAGE value="Commit 22.4.3 - 18.49" />
     <MESSAGE value="Commit 22.4.4 - 20.39" />
     <MESSAGE value="Commit 22.4.5 - 20.39" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.4.5 - 20.39" />
+    <MESSAGE value="Commit 22.4.6 - 12:53" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.4.6 - 12:53" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -640,6 +646,11 @@
           <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/LC_307_Test.java</url>
           <line>63</line>
           <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_796.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
