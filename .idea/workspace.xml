@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.4.6 - 12:53">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_1046.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_494.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_796.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_796_Simulation.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.4.7 - 17：26">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/CompletePack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_474.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_518.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_416.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_416.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,6 +199,9 @@
       <workItem from="1648892203076" duration="15000" />
       <workItem from="1648892249295" duration="41000" />
       <workItem from="1648892333912" duration="28489000" />
+      <workItem from="1649323555999" duration="961000" />
+      <workItem from="1649381394105" duration="3391000" />
+      <workItem from="1649408119994" duration="2544000" />
     </task>
     <task id="LOCAL-00001" summary="test 222.2.28">
       <created>1646021578883</created>
@@ -482,7 +483,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649220809501</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Commit 22.4.7 - 17：26">
+      <created>1649323576394</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1649323576394</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -502,7 +510,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="test 22.3.8" />
     <MESSAGE value="test 22.3.11" />
     <MESSAGE value="test 22.3.12" />
     <MESSAGE value="test 22.3.13" />
@@ -527,7 +534,8 @@
     <MESSAGE value="Commit 22.4.4 - 20.39" />
     <MESSAGE value="Commit 22.4.5 - 20.39" />
     <MESSAGE value="Commit 22.4.6 - 12:53" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.4.6 - 12:53" />
+    <MESSAGE value="Commit 22.4.7 - 17：26" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.4.7 - 17：26" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
