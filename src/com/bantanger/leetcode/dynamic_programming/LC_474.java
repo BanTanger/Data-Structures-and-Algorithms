@@ -10,6 +10,8 @@ public class LC_474 {
         public int findMaxForm(String[] strs, int m, int n) {
             int[][] dp = new int[m + 1][n + 1];
             int oneNum = 0, zeroNum = 0;
+            // 字符串的zeroNum和oneNum相当于物品的重量（weight[i]），
+            // 字符串本身的个数相当于物品的价值（value[i]）。
             for (String str : strs) {
                 oneNum = 0;
                 zeroNum = 0;
