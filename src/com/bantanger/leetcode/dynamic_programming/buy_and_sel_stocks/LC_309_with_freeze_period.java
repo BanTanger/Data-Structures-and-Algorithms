@@ -1,11 +1,11 @@
-package com.bantanger.leetcode.dynamic_programming;
+package com.bantanger.leetcode.dynamic_programming.buy_and_sel_stocks;
 
 /**
  * @author bantanger 半糖
  * @version 1.0
  * @Date 2022/4/16 8:38
  */
-public class LC_309 {
+public class LC_309_with_freeze_period {
     class Solution {
         public int maxProfit(int[] prices) {
             if (prices == null || prices.length == 0) return 0;

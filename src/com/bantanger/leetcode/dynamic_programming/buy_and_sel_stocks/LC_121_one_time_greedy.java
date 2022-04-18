@@ -1,11 +1,11 @@
-package com.bantanger.leetcode.dynamic_programming;
+package com.bantanger.leetcode.dynamic_programming.buy_and_sel_stocks;
 
 /**
  * @author bantanger 半糖
  * @version 1.0
  * @Date 2022/4/15 8:08
  */
-public class LC_121_greedy {
+public class LC_121_one_time_greedy {
     class Solution {
         public int maxProfit(int[] prices) {
             int low = Integer.MAX_VALUE;

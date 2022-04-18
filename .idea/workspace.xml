@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.4.16 - 10:10">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/LC_819_2022_04_17.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.4.17 - 18:39">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/LC_386_2022_04_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/buy_and_sel_stocks/LC_714_with_fee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/subsequence/LC_300.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_121_dp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/buy_and_sel_stocks/LC_121_one_time_dp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_121_greedy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/buy_and_sel_stocks/LC_121_one_time_greedy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_122_dp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/buy_and_sel_stocks/LC_122_dp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_123.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/buy_and_sel_stocks/LC_123_K_time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/LC_309.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/buy_and_sel_stocks/LC_309_with_freeze_period.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +93,7 @@
       <recent name="com.bantanger.leetcode.dynamic_programming" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC_1672_2022_04_14">
+  <component name="RunManager" selected="JUnit.LC_300.test">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bantanger.Demo" />
       <module name="Data-Structures-and-Algorithms" />
@@ -131,17 +138,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC_337_backtracking" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC_300.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.dynamic_programming.*" />
+          <option name="PATTERN" value="com.bantanger.leetcode.dynamic_programming.subsequence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.dynamic_programming" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.dynamic_programming.LC_337_backtracking" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.dynamic_programming.subsequence" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.dynamic_programming.subsequence.LC_300" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -209,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LC_300.test" />
         <item itemvalue="JUnit.LC_1672_2022_04_14" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="JUnit.Demo.test" />
         <item itemvalue="JUnit.StudentDemoTest.test" />
-        <item itemvalue="JUnit.LC_337_backtracking" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +261,7 @@
       <workItem from="1649831827483" duration="855000" />
       <workItem from="1649863698719" duration="4060000" />
       <workItem from="1649940732252" duration="9688000" />
-      <workItem from="1650183973442" duration="4066000" />
+      <workItem from="1650183973442" duration="9430000" />
     </task>
     <task id="LOCAL-00001" summary="test 222.2.28">
       <created>1646021578883</created>
@@ -591,7 +599,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650097645423</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Commit 22.4.17 - 18:39">
+      <created>1650191974086</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1650191974087</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -611,7 +626,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Commit 22.3.21 - 20:30" />
     <MESSAGE value="Commit 22.3.22 - 23.01" />
     <MESSAGE value="Commit 22.3.23 - 17.17" />
     <MESSAGE value="Commit 22.3.24 - 18.56" />
@@ -636,7 +650,8 @@
     <MESSAGE value="Commit 22.4.14 - 19:27" />
     <MESSAGE value="Commit 22.4.15 - 12:10" />
     <MESSAGE value="Commit 22.4.16 - 10:10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.4.16 - 10:10" />
+    <MESSAGE value="Commit 22.4.17 - 18:39" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.4.17 - 18:39" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

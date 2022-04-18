@@ -1,4 +1,4 @@
-package com.bantanger.leetcode.dynamic_programming;
+package com.bantanger.leetcode.dynamic_programming.buy_and_sel_stocks;
 
 /**
  * @author bantanger 半糖
