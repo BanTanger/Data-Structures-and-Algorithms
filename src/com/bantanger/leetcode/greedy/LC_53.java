@@ -16,7 +16,7 @@ public class LC_53 {
             for (int i = 0; i < nums.length; i++) {
                 count += nums[i];
                 sum = Math.max(sum, count);
-                if (count <= 0) count = 0;
+                if (count <= 0) count = 0; // 累加的和小于0时将count清空重新累加
             }
 
             return sum;
