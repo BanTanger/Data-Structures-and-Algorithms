@@ -45,11 +45,11 @@ public class LC_76_minWindow {
                     if (need.containsKey(d)) {
                         if (window.get(d).equals(need.get(d)))
                             valid--;
-                        window.put(c, window.getOrDefault(c, 0) - 1);
+                        window.put(d, window.get(d) - 1);
                     }
                 }
             }
-            return len == Integer.MAX_VALUE ? "" : s.substring(start, len);
+            return len == Integer.MAX_VALUE ? "" : s.substring(start, start + len);
         }
     }
 

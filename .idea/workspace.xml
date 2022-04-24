@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.4.21 - 22:26">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/exam1/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/exam1/MonthWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/exam1/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/exam1/YearWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/exam2/Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/exam2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/exam2/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/sliding_window/LC_3_NoRepeatNumb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/sliding_window/LC_438_All_Anagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/sliding_window/LC_567_NoRepeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/sliding_window/LC_76_minWindow.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.4.23 - 22:26">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/subsequence/LC_516_LongestPalindromeSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/subsequence/LC_647_Palindromic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bantanger/leetcode/sliding_window/LC_76_minWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/sliding_window/LC_76_minWindow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +88,7 @@
       <recent name="com.bantanger.leetcode.dynamic_programming" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Test1.WorkerTest">
+  <component name="RunManager" selected="JUnit.LC_516_LongestPalindromeSub.test">
     <configuration name="LC_337_backtracking" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
@@ -107,21 +99,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.bantanger.leetcode.dynamic_programming" />
       <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.dynamic_programming.LC_337_backtracking" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LC_438_All_Anagrams" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Data-Structures-and-Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.sliding_window.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.sliding_window" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.sliding_window.LC_438_All_Anagrams" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -143,23 +120,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC_48_RotateImage.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC_516_LongestPalindromeSub.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.two_dimensional_traversing.*" />
+          <option name="PATTERN" value="com.bantanger.leetcode.dynamic_programming.subsequence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.two_dimensional_traversing" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.two_dimensional_traversing.LC_48_RotateImage" />
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.dynamic_programming.subsequence" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.dynamic_programming.subsequence.LC_516_LongestPalindromeSub" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC_76_minWindow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC_647_Palindromic.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures-and-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.leetcode.dynamic_programming.subsequence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.dynamic_programming.subsequence" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.dynamic_programming.subsequence.LC_647_Palindromic" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC_76_minWindow.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -169,7 +162,8 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.bantanger.leetcode.sliding_window" />
       <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.sliding_window.LC_76_minWindow" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -192,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LC_516_LongestPalindromeSub.test" />
+        <item itemvalue="JUnit.LC_647_Palindromic.test" />
+        <item itemvalue="JUnit.LC_76_minWindow.test" />
         <item itemvalue="JUnit.Test1.WorkerTest" />
         <item itemvalue="JUnit.LC_438_All_Anagrams.test" />
-        <item itemvalue="JUnit.LC_438_All_Anagrams" />
-        <item itemvalue="JUnit.LC_76_minWindow" />
-        <item itemvalue="JUnit.LC_48_RotateImage.test" />
       </list>
     </recent_temporary>
   </component>
@@ -238,14 +232,7 @@
       <workItem from="1649940732252" duration="9688000" />
       <workItem from="1650183973442" duration="14134000" />
       <workItem from="1650419698092" duration="23374000" />
-      <workItem from="1650680598904" duration="6935000" />
-    </task>
-    <task id="LOCAL-00005" summary="test 222.2.28">
-      <created>1646026096200</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1646026096200</updated>
+      <workItem from="1650680598904" duration="18163000" />
     </task>
     <task id="LOCAL-00006" summary="test 222.2.28">
       <created>1646026901551</created>
@@ -583,7 +570,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650556575072</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Commit 22.4.23 - 22:26">
+      <created>1650721437827</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1650721437828</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -603,7 +597,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Commit 22.3.26 - 22.06" />
     <MESSAGE value="Commit 22.3.27 - 10.09" />
     <MESSAGE value="Commit 22.3.28 - 21.07" />
     <MESSAGE value="Commit 22.3.28 - 22.12" />
@@ -628,7 +621,8 @@
     <MESSAGE value="Commit 22.4.19 - 22:26" />
     <MESSAGE value="Commit 22.4.20 - 22:26" />
     <MESSAGE value="Commit 22.4.21 - 22:26" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.4.21 - 22:26" />
+    <MESSAGE value="Commit 22.4.23 - 22:26" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.4.23 - 22:26" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
