@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.4.29 - 22:26">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/may_oneweek/data_2022_05_01/LC_1305_twoTreeMerge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/may_oneweek/data_2022_05_01/LC_173_BST_Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/may_oneweek/data_2022_05_01/TreeNode.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.5.1 - 21：37">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bantanger/tree/UniteOrderUnRecur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bantanger/tree/UniteOrderUnRecur.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,14 +215,7 @@
       <workItem from="1650934129240" duration="7698000" />
       <workItem from="1651108339533" duration="13741000" />
       <workItem from="1651297317317" duration="4169000" />
-      <workItem from="1651406823987" duration="3339000" />
-    </task>
-    <task id="LOCAL-00011" summary="test 22.3.3">
-      <created>1646318109707</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1646318109707</updated>
+      <workItem from="1651406823987" duration="4769000" />
     </task>
     <task id="LOCAL-00012" summary="test 22.3.4">
       <created>1646406629828</created>
@@ -564,7 +553,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651210270984</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Commit 22.5.1 - 21：37">
+      <created>1651412259488</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1651412259488</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -584,7 +580,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Commit 22.3.29 - 12.16" />
     <MESSAGE value="Commit 22.3.30 - 10.16" />
     <MESSAGE value="Commit 22.3.31 - 20.20" />
     <MESSAGE value="Commit 22.4.1 - 20.20" />
@@ -609,7 +604,8 @@
     <MESSAGE value="Commit 22.4.26 - 22:26" />
     <MESSAGE value="Commit 22.4.28 - 22:26" />
     <MESSAGE value="Commit 22.4.29 - 22:26" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.4.29 - 22:26" />
+    <MESSAGE value="Commit 22.5.1 - 21：37" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.5.1 - 21：37" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
