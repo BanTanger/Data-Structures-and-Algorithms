@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.5.1 - 21：37">
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.5.2 - 20:00">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/may_oneweek/data_2022_05_03/LC_937.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,22 +86,7 @@
       <recent name="com.bantanger.leetcode.dynamic_programming" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.example.test">
-    <configuration name="LC_28_strStr (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Data-Structures-and-Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.kmp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.kmp" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.kmp.LC_28_strStr" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.LC_937.test">
     <configuration name="LC_28_strStr (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
@@ -147,6 +133,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LC_937.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures-and-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.leetcode.Question_of_the_day.may_oneweek.data_2022_05_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.Question_of_the_day.may_oneweek.data_2022_05_03" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.Question_of_the_day.may_oneweek.data_2022_05_03.LC_937" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="example.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
@@ -165,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LC_937.test" />
         <item itemvalue="JUnit.example.test" />
         <item itemvalue="JUnit.LC_28_strStr (3)" />
         <item itemvalue="JUnit.LC_28_strStr (2)" />
         <item itemvalue="JUnit.LC_28_strStr.test" />
-        <item itemvalue="JUnit.LC_28_strStr (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -216,13 +218,7 @@
       <workItem from="1651108339533" duration="13741000" />
       <workItem from="1651297317317" duration="4169000" />
       <workItem from="1651406823987" duration="4769000" />
-    </task>
-    <task id="LOCAL-00012" summary="test 22.3.4">
-      <created>1646406629828</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1646406629829</updated>
+      <workItem from="1651492513923" duration="1490000" />
     </task>
     <task id="LOCAL-00013" summary="test 22.3.5">
       <created>1646523642795</created>
@@ -560,7 +556,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651412259488</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Commit 22.5.2 - 20:00">
+      <created>1651492691666</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1651492691666</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -580,7 +583,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Commit 22.3.30 - 10.16" />
     <MESSAGE value="Commit 22.3.31 - 20.20" />
     <MESSAGE value="Commit 22.4.1 - 20.20" />
     <MESSAGE value="Commit 22.4.3 - 18.49" />
@@ -605,7 +607,8 @@
     <MESSAGE value="Commit 22.4.28 - 22:26" />
     <MESSAGE value="Commit 22.4.29 - 22:26" />
     <MESSAGE value="Commit 22.5.1 - 21：37" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.5.1 - 21：37" />
+    <MESSAGE value="Commit 22.5.2 - 20:00" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.5.2 - 20:00" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
