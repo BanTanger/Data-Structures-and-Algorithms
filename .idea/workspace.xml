@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.5.6 - 20:00">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/tree/LC515_MaxDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/tree/LC543_MaxDiameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Nsum/LC15_ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Nsum/LC18_FourSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Nsum/LC1_TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Nsum/N_sumTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/may_oneweek/data_2022_05_07/LC_433.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,11 +87,12 @@
       <recent name="E:\Java 学习项目集合\Data-Structures-and-Algorithms\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bantanger.leetcode.Question_of_the_day.may_oneweek.data_2022_05_07" />
       <recent name="com.bantanger" />
       <recent name="com.bantanger.leetcode.dynamic_programming" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC_933.test">
+  <component name="RunManager" selected="JUnit.LC1_TwoSum.test">
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bantanger.Test1" />
       <module name="Data-Structures-and-Algorithms" />
@@ -111,6 +115,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC1_TwoSum.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures-and-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.leetcode.Nsum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.Nsum" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.Nsum.LC1_TwoSum" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -147,29 +167,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="example.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Data-Structures-and-Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.monotonic_stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.monotonic_stack" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.monotonic_stack.example" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LC1_TwoSum.test" />
         <item itemvalue="JUnit.LC_933.test" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.ThreadTest" />
         <item itemvalue="JUnit.LC_937.test" />
-        <item itemvalue="JUnit.example.test" />
       </list>
     </recent_temporary>
   </component>
@@ -218,14 +222,7 @@
       <workItem from="1651406823987" duration="4769000" />
       <workItem from="1651492513923" duration="1819000" />
       <workItem from="1651674707942" duration="299000" />
-      <workItem from="1651724391150" duration="11057000" />
-    </task>
-    <task id="LOCAL-00016" summary="test 22.3.11">
-      <created>1646999238438</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1646999238438</updated>
+      <workItem from="1651724391150" duration="18982000" />
     </task>
     <task id="LOCAL-00017" summary="test 22.3.12">
       <created>1647073125797</created>
@@ -563,7 +560,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651830997987</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Commit 22.5.6 - 20:00">
+      <created>1651847383384</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1651847383393</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
