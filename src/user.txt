@@ -1,4 +1,0 @@
-user=root1 password=123456
-user=root2 password=123456
-user=root3 password=123456
-user=root4 password=123456
