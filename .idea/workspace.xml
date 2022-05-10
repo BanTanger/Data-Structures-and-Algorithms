@@ -4,19 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.5.8 - 20:00">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/ThreadSleepSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/may_oneweek/data_2022_05_09/LC_942.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/linkedlist/LC203_remove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/linkedlist/LC21_merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/linkedlist/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/sliding_window/LC209_MinSubArray.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.5.9 - 20:00">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/linkedlist/LC141_circular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/linkedlist/LC160_intersect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/linkedlist/LC19_reciprocal_K.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/linkedlist/LC206_reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/linkedlist/LC23_merge_K.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/linkedlist/LC876_middle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/linkedlist/LC92_reverseⅡ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/linkedlist/LCxxx_reverseN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bantanger/FileSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bantanger/Test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bantanger/ThreadTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bantanger/graph/Graph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/user.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,20 +97,7 @@
       <recent name="com.bantanger.leetcode.dynamic_programming" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ThreadSleepSort.test">
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.Test1" />
-      <module name="Data-Structures-and-Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bantanger.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.LC876_middle.test">
     <configuration name="LC1_TwoSum.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
@@ -124,6 +108,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.bantanger.leetcode.Nsum" />
       <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.Nsum.LC1_TwoSum" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC876_middle.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures-and-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.leetcode.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.linkedlist.LC876_middle" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -180,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LC876_middle.test" />
         <item itemvalue="JUnit.ThreadSleepSort.test" />
         <item itemvalue="JUnit.LC_942.test" />
         <item itemvalue="JUnit.LC1_TwoSum.test" />
         <item itemvalue="JUnit.LC_933.test" />
-        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -234,14 +234,7 @@
       <workItem from="1651492513923" duration="1819000" />
       <workItem from="1651674707942" duration="299000" />
       <workItem from="1651724391150" duration="19311000" />
-      <workItem from="1651989289205" duration="9265000" />
-    </task>
-    <task id="LOCAL-00019" summary="test 22.3.14">
-      <created>1647263865582</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1647263865582</updated>
+      <workItem from="1651989289205" duration="17313000" />
     </task>
     <task id="LOCAL-00020" summary="test 22.3.18">
       <created>1647607241327</created>
@@ -579,7 +572,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652059242943</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Commit 22.5.9 - 20:00">
+      <created>1652106473828</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1652106473828</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -599,7 +599,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Commit 22.4.6 - 12:53" />
     <MESSAGE value="Commit 22.4.7 - 17：26" />
     <MESSAGE value="Commit 22.4.8 - 21:30" />
     <MESSAGE value="Commit 22.4.9 - 21:04" />
@@ -624,7 +623,8 @@
     <MESSAGE value="Commit 22.5.6 - 20:00" />
     <MESSAGE value="Commit 22.5.7 - 20:00" />
     <MESSAGE value="Commit 22.5.8 - 20:00" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.5.8 - 20:00" />
+    <MESSAGE value="Commit 22.5.9 - 20:00" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.5.9 - 20:00" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
