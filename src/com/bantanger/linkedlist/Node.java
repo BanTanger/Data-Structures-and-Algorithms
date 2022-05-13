@@ -7,6 +7,8 @@ package com.bantanger.linkedlist;
 public class Node {
     public int val;
     public Node next;
+    public Node left;
+    public Node right;
 
     public Node(int val, Node next) {
         this.val = val;

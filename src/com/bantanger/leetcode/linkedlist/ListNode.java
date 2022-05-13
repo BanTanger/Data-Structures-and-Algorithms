@@ -6,8 +6,8 @@ package com.bantanger.leetcode.linkedlist;
  * @Date 2022/5/9 12:58
  */
 public class ListNode {
-    int val;
-    ListNode next;
+    public int val;
+    public ListNode next;
 
     public ListNode(int val) {
         this.val = val;
