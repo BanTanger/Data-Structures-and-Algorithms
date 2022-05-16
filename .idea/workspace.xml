@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.5.14 - 20:00">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/tree/LC230.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/tree/bst/DeleteNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/tree/bst/LC450_delete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/tree/bst/LC700.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/tree/bst/LC98.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.5.15 - 20:00">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/may/data_2022_05_16/LC_04_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/tree/bst/LC95.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/tree/bst/LC96.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,11 +85,11 @@
       <recent name="E:\Java 学习项目集合\Data-Structures-and-Algorithms\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_13" />
-      <recent name="com.bantanger.leetcode.monotonic_stack" />
-      <recent name="com.bantanger.leetcode.Question_of_the_day.may_oneweek.data_2022_05_12" />
-      <recent name="com.bantanger.leetcode.Question_of_the_day.may_oneweek.data_2022_05_11" />
-      <recent name="com.bantanger.leetcode.Question_of_the_day.may_oneweek.data_2022_05_09" />
+      <recent name="com.bantanger.schoolhomework.chapter11" />
+      <recent name="com.bantanger.schoolhomework.chapter10" />
+      <recent name="com.bantanger.schoolhomework.chapter08" />
+      <recent name="com.bantanger.schoolhomework.chapter05" />
+      <recent name="com.bantanger.schoolhomework.chapter03" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Sound">
@@ -226,14 +225,8 @@
       <workItem from="1651724391150" duration="19311000" />
       <workItem from="1651989289205" duration="18267000" />
       <workItem from="1652230478271" duration="11321000" />
-      <workItem from="1652401946142" duration="19268000" />
-    </task>
-    <task id="LOCAL-00024" summary="Commit 22.3.22 - 23.01">
-      <created>1647961324957</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1647961324957</updated>
+      <workItem from="1652401946142" duration="27064000" />
+      <workItem from="1652696276426" duration="1460000" />
     </task>
     <task id="LOCAL-00025" summary="Commit 22.3.23 - 17.17">
       <created>1648027081841</created>
@@ -571,7 +564,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652541169365</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Commit 22.5.15 - 20:00">
+      <created>1652623238319</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1652623238319</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -591,7 +591,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Commit 22.4.12 - 19:27" />
     <MESSAGE value="Commit 22.4.14 - 19:27" />
     <MESSAGE value="Commit 22.4.15 - 12:10" />
     <MESSAGE value="Commit 22.4.16 - 10:10" />
@@ -616,7 +615,8 @@
     <MESSAGE value="Commit 22.5.11 - 20:00" />
     <MESSAGE value="Commit 22.5.13 - 20:00" />
     <MESSAGE value="Commit 22.5.14 - 20:00" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.5.14 - 20:00" />
+    <MESSAGE value="Commit 22.5.15 - 20:00" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.5.15 - 20:00" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
