@@ -18,6 +18,7 @@ public class LC96 {
             // 如果查表发现当前递归的数据已经存在，就直接返回
             if(mome[low][height] != 0) return mome[low][height];
             int res = 0;
+            // [lo, hi]闭区间，当前i作为BST的根节点
             for(int i = low; i <= height; i++) {
                 int left = count(low, i - 1);
                 int right = count(i + 1, height);

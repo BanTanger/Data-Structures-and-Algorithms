@@ -1,6 +1,7 @@
 package com.bantanger.leetcode.tree.bst;
 
 import com.bantanger.leetcode.dynamic_programming.TreeNode;
+import org.junit.jupiter.api.Test;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -23,6 +24,7 @@ public class LC95 {
                 return res;
             }
             // 闭区间 需要i <= hi
+            // [lo, hi]闭区间，当前i作为BST的根节点
             for(int i = lo; i <= hi; i++) {
                 List<TreeNode> leftTree = helper(lo, i - 1);
                 List<TreeNode> rightTree = helper(i + 1, hi);
@@ -37,5 +39,10 @@ public class LC95 {
             }
             return res;
         }
+    }
+    @Test
+    public void test(){
+        Solution solution = new Solution();
+        solution.generateTrees(4);
     }
 }
