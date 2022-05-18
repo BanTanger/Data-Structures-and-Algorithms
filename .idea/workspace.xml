@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.5.16 - 20:00">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/may/data_2022_05_17/LC953.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/sort/LC315.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/sort/LC493.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.5.17 - 20:00">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/may/data_2022_05_18/LC668.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/difference_array/LC378.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bantanger/leetcode/tree/bst/LC95.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/tree/bst/LC95.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bantanger/leetcode/tree/bst/LC96.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/tree/bst/LC96.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,11 +84,11 @@
       <recent name="E:\Java 学习项目集合\Data-Structures-and-Algorithms\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_18" />
       <recent name="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_17" />
       <recent name="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_16" />
       <recent name="com.bantanger.schoolhomework.chapter11" />
       <recent name="com.bantanger.schoolhomework.chapter10" />
-      <recent name="com.bantanger.schoolhomework.chapter08" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.LC95">
@@ -228,14 +225,8 @@
       <workItem from="1652230478271" duration="11321000" />
       <workItem from="1652401946142" duration="27064000" />
       <workItem from="1652696276426" duration="3275000" />
-      <workItem from="1652763578923" duration="1807000" />
-    </task>
-    <task id="LOCAL-00026" summary="Commit 22.3.24 - 18.56">
-      <created>1648119393708</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1648119393708</updated>
+      <workItem from="1652763578923" duration="3038000" />
+      <workItem from="1652809889708" duration="1716000" />
     </task>
     <task id="LOCAL-00027" summary="Commit 22.3.25 - 11.35">
       <created>1648179255190</created>
@@ -573,7 +564,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652708288122</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Commit 22.5.17 - 20:00">
+      <created>1652788561830</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1652788561830</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -593,7 +591,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Commit 22.4.15 - 12:10" />
     <MESSAGE value="Commit 22.4.16 - 10:10" />
     <MESSAGE value="Commit 22.4.17 - 18:39" />
     <MESSAGE value="Commit 22.4.18 - 18:39" />
@@ -618,7 +615,8 @@
     <MESSAGE value="Commit 22.5.14 - 20:00" />
     <MESSAGE value="Commit 22.5.15 - 20:00" />
     <MESSAGE value="Commit 22.5.16 - 20:00" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.5.16 - 20:00" />
+    <MESSAGE value="Commit 22.5.17 - 20:00" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.5.17 - 20:00" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
