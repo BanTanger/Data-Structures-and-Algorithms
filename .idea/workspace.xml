@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.5.21 - 20:00">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/BFS/LC111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/double_pointer/two_points/LC4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/island_problem/LC1020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/island_problem/LC1254.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/island_problem/LC1905.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/island_problem/LC200.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/island_problem/LC695.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/kmp/LC28_againDo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/str/LC205.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/str/LC696.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.5.22 - 20:00">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/BFS/LC752.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/BFS/LC752_Bidirectional_BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/BFS/LC773_BidirectionalBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/may/data_2022_05_23/LC675.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/may/data_2022_05_23/My.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,13 +70,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/bantanger" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/may/data_2022_05_23/My.java" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/may/data_2022_05_23/My.java" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -94,29 +89,14 @@
       <recent name="E:\Java 学习项目集合\Data-Structures-and-Algorithms\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_23" />
       <recent name="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_21" />
       <recent name="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_20" />
       <recent name="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_19" />
       <recent name="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_18" />
-      <recent name="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_17" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC961 (2)">
-    <configuration name="LC436" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Data-Structures-and-Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_20" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_20.LC436" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.My.test">
     <configuration name="LC436.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
@@ -178,13 +158,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="My.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures-and-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_23" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_23.My" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.My.test" />
         <item itemvalue="JUnit.LC961 (2)" />
         <item itemvalue="JUnit.LC961 (1)" />
         <item itemvalue="JUnit.LC961" />
         <item itemvalue="JUnit.LC436.test" />
-        <item itemvalue="JUnit.LC436" />
       </list>
     </recent_temporary>
   </component>
@@ -240,14 +236,7 @@
       <workItem from="1652696276426" duration="3275000" />
       <workItem from="1652763578923" duration="3038000" />
       <workItem from="1652809889708" duration="2168000" />
-      <workItem from="1652942704744" duration="21558000" />
-    </task>
-    <task id="LOCAL-00031" summary="Commit 22.3.28 - 21.07">
-      <created>1648472871317</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1648472871317</updated>
+      <workItem from="1652942704744" duration="29235000" />
     </task>
     <task id="LOCAL-00032" summary="Commit 22.3.28 - 22.12">
       <created>1648476768380</created>
@@ -585,7 +574,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653140769348</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Commit 22.5.22 - 20:00">
+      <created>1653224926432</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1653224926432</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -605,7 +601,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Commit 22.4.20 - 22:26" />
     <MESSAGE value="Commit 22.4.21 - 22:26" />
     <MESSAGE value="Commit 22.4.23 - 22:26" />
     <MESSAGE value="Commit 22.4.26 - 22:26" />
@@ -630,7 +625,8 @@
     <MESSAGE value="Commit 22.5.19 - 20:00" />
     <MESSAGE value="Commit 22.5.20 - 20:00" />
     <MESSAGE value="Commit 22.5.21 - 20:00" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.5.21 - 20:00" />
+    <MESSAGE value="Commit 22.5.22 - 20:00" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.5.22 - 20:00" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
