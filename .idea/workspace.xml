@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.5.22 - 20:00">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/BFS/LC752.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/BFS/LC752_Bidirectional_BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/BFS/LC773_BidirectionalBFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/may/data_2022_05_23/LC675.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/may/data_2022_05_23/My.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.5.23 - 20:00">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/bit_manipulation/BitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/bit_manipulation/LC136.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/bit_manipulation/LC191.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/bit_manipulation/LC231.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/bit_manipulation/LC268.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/double_pointer/two_points/LC540_Bit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +77,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/may/data_2022_05_23/My.java" />
   </component>
   <component name="RecentsManager">
@@ -96,64 +97,64 @@
       <recent name="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_18" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.My.test">
-    <configuration name="LC436.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BitTest.Test">
+    <configuration name="BitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.bit_manipulation.BitTest" />
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_20.*" />
+          <option name="PATTERN" value="com.bantanger.leetcode.bit_manipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_20" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_20.LC436" />
-      <option name="METHOD_NAME" value="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BitTest.AndTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures-and-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.leetcode.bit_manipulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.bit_manipulation" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.bit_manipulation.BitTest" />
+      <option name="METHOD_NAME" value="AndTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC961 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BitTest.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_21.*" />
+          <option name="PATTERN" value="com.bantanger.leetcode.bit_manipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_21" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_21.LC961" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.bit_manipulation" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.bit_manipulation.BitTest" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC961 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BitTest.XORTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_21.*" />
+          <option name="PATTERN" value="com.bantanger.leetcode.bit_manipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_21" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_21.LC961" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LC961" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Data-Structures-and-Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_21.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_21" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_21.LC961" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.bit_manipulation" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.bit_manipulation.BitTest" />
+      <option name="METHOD_NAME" value="XORTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -176,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BitTest.Test" />
+        <item itemvalue="JUnit.BitTest.XORTest" />
+        <item itemvalue="JUnit.BitTest.AndTest" />
+        <item itemvalue="Application.BitTest" />
         <item itemvalue="JUnit.My.test" />
-        <item itemvalue="JUnit.LC961 (2)" />
-        <item itemvalue="JUnit.LC961 (1)" />
-        <item itemvalue="JUnit.LC961" />
-        <item itemvalue="JUnit.LC436.test" />
       </list>
     </recent_temporary>
   </component>
@@ -236,14 +237,8 @@
       <workItem from="1652696276426" duration="3275000" />
       <workItem from="1652763578923" duration="3038000" />
       <workItem from="1652809889708" duration="2168000" />
-      <workItem from="1652942704744" duration="29235000" />
-    </task>
-    <task id="LOCAL-00032" summary="Commit 22.3.28 - 22.12">
-      <created>1648476768380</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1648476768380</updated>
+      <workItem from="1652942704744" duration="30314000" />
+      <workItem from="1653316519119" duration="2222000" />
     </task>
     <task id="LOCAL-00033" summary="Commit 22.3.29 - 12.16">
       <created>1648527397759</created>
@@ -581,7 +576,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653224926432</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Commit 22.5.23 - 20:00">
+      <created>1653315364155</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1653315364155</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -601,7 +603,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Commit 22.4.21 - 22:26" />
     <MESSAGE value="Commit 22.4.23 - 22:26" />
     <MESSAGE value="Commit 22.4.26 - 22:26" />
     <MESSAGE value="Commit 22.4.28 - 22:26" />
@@ -626,7 +627,8 @@
     <MESSAGE value="Commit 22.5.20 - 20:00" />
     <MESSAGE value="Commit 22.5.21 - 20:00" />
     <MESSAGE value="Commit 22.5.22 - 20:00" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.5.22 - 20:00" />
+    <MESSAGE value="Commit 22.5.23 - 20:00" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.5.23 - 20:00" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
