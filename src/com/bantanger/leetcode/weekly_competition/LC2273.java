@@ -1,4 +1,4 @@
-package com.bantanger.weekly_competition;
+package com.bantanger.leetcode.weekly_competition;
 
 import java.util.ArrayList;
 import java.util.Arrays;
