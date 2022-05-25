@@ -1,4 +1,4 @@
-package com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_24.data_2022_05_23;
+package com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_24;
 
 import com.bantanger.leetcode.dynamic_programming.TreeNode;
 
