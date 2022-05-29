@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.5.27 - 20:00">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/may/data_2022_05_28/LC1021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/may/data_2022_05_28/LC1021_easy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/string/LC541_reverseStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/string/offer05_replaceSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/string/offer05_space.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.5.28 - 20:00">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/may/data_2022_05_29/LC468.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/weekly_competition/c295/LC6078.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/weekly_competition/c295/LC6079.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/weekly_competition/c79/LC6083.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/weekly_competition/c79/LC6084.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +70,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/may/data_2022_05_28" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/may/data_2022_05_29" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -85,6 +85,7 @@
       <recent name="com.bantanger.linkedlist" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java 学习项目集合\Data-Structures-and-Algorithms\src\com\bantanger\leetcode\Question_of_the_day\may\data_2022_05_29" />
       <recent name="E:\Java 学习项目集合\Data-Structures-and-Algorithms\src\com\bantanger\leetcode\Question_of_the_day\may\data_2022_05_28" />
       <recent name="E:\Java 学习项目集合\Data-Structures-and-Algorithms\src\com\bantanger\leetcode\Question_of_the_day\may\data_2022_05_24" />
       <recent name="E:\Java 学习项目集合\Data-Structures-and-Algorithms\src\com\bantanger" />
@@ -98,77 +99,77 @@
       <recent name="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_19" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC1021 (3)">
-    <configuration name="LC1021 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LC6079.test">
+    <configuration name="LC6079 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_28.*" />
+          <option name="PATTERN" value="com.bantanger.leetcode.weekly_competition.c295.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_28" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_28.LC1021" />
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.weekly_competition.c295" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.weekly_competition.c295.LC6079" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC1021 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC6079 (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_28.*" />
+          <option name="PATTERN" value="com.bantanger.leetcode.weekly_competition.c295.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_28" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_28.LC1021" />
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.weekly_competition.c295" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.weekly_competition.c295.LC6079" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC1021 (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC6079 (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_28.*" />
+          <option name="PATTERN" value="com.bantanger.leetcode.weekly_competition.c295.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_28" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_28.LC1021" />
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.weekly_competition.c295" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.weekly_competition.c295.LC6079" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC1021" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC6079" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_28.*" />
+          <option name="PATTERN" value="com.bantanger.leetcode.weekly_competition.c295.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_28" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_28.LC1021" />
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.weekly_competition.c295" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.weekly_competition.c295.LC6079" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC1021.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC6079.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_28.*" />
+          <option name="PATTERN" value="com.bantanger.leetcode.weekly_competition.c295.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_28" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.Question_of_the_day.may.data_2022_05_28.LC1021" />
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.weekly_competition.c295" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.weekly_competition.c295.LC6079" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -177,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LC1021 (3)" />
-        <item itemvalue="JUnit.LC1021 (2)" />
-        <item itemvalue="JUnit.LC1021 (1)" />
-        <item itemvalue="JUnit.LC1021.test" />
-        <item itemvalue="JUnit.LC1021" />
+        <item itemvalue="JUnit.LC6079.test" />
+        <item itemvalue="JUnit.LC6079 (1)" />
+        <item itemvalue="JUnit.LC6079" />
+        <item itemvalue="JUnit.LC6079 (4)" />
+        <item itemvalue="JUnit.LC6079 (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -239,14 +240,8 @@
       <workItem from="1652809889708" duration="2168000" />
       <workItem from="1652942704744" duration="30314000" />
       <workItem from="1653316519119" duration="20984000" />
-      <workItem from="1653488796476" duration="22666000" />
-    </task>
-    <task id="LOCAL-00038" summary="Commit 22.4.4 - 20.39">
-      <created>1649075984817</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1649075984818</updated>
+      <workItem from="1653488796476" duration="29483000" />
+      <workItem from="1653792302980" duration="5228000" />
     </task>
     <task id="LOCAL-00039" summary="Commit 22.4.5 - 20.39">
       <created>1649167224561</created>
@@ -584,7 +579,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653643469793</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Commit 22.5.28 - 20:00">
+      <created>1653747545484</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1653747545484</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -604,7 +606,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Commit 22.5.1 - 21：37" />
     <MESSAGE value="Commit 22.5.2 - 20:00" />
     <MESSAGE value="Commit 22.5.3 - 20:00" />
     <MESSAGE value="Commit 22.5.4 - 20:00" />
@@ -629,7 +630,8 @@
     <MESSAGE value="Commit 22.5.25 - 20:00" />
     <MESSAGE value="Commit 22.5.26 - 20:00" />
     <MESSAGE value="Commit 22.5.27 - 20:00" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.5.27 - 20:00" />
+    <MESSAGE value="Commit 22.5.28 - 20:00" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.5.28 - 20:00" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -818,6 +820,36 @@
           <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/may/data_2022_05_28/LC1021.java</url>
           <line>42</line>
           <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/weekly_competition/c79/LC6083.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/weekly_competition/c79/LC6083.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/weekly_competition/c79/LC6084.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/weekly_competition/c79/LC6084.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/weekly_competition/c295/LC6079.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/weekly_competition/c295/LC6079.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="100" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
