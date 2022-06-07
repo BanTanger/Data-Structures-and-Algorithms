@@ -1,4 +1,4 @@
-package com.bantanger.leetcode.Question_of_the_day.may.data_2022_06_01;
+package com.bantanger.leetcode.Question_of_the_day.june.data_2022_06_01;
 
 /**
  * @author bantanger 半糖
