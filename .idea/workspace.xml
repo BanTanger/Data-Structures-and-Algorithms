@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.6.12 - 20:00">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/backtracking/LC79.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/sliding_window/LC904.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.6.13 - 20:00">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/two_dimensional_traversing/LC498.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -247,14 +246,7 @@
       <workItem from="1654180731357" duration="1087000" />
       <workItem from="1654259161630" duration="30456000" />
       <workItem from="1654703030445" duration="33537000" />
-      <workItem from="1655130382371" duration="7000" />
-    </task>
-    <task id="LOCAL-00051" summary="Commit 22.4.19 - 22:26">
-      <created>1650378417403</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1650378417403</updated>
+      <workItem from="1655130369539" duration="4964000" />
     </task>
     <task id="LOCAL-00052" summary="Commit 22.4.20 - 22:26">
       <created>1650466294534</created>
@@ -592,7 +584,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655045801615</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="Commit 22.6.13 - 20:00">
+      <created>1655130539469</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1655130539471</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -612,7 +611,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Commit 22.5.14 - 20:00" />
     <MESSAGE value="Commit 22.5.15 - 20:00" />
     <MESSAGE value="Commit 22.5.16 - 20:00" />
     <MESSAGE value="Commit 22.5.17 - 20:00" />
@@ -637,7 +635,8 @@
     <MESSAGE value="Commit 22.6.10 - 20:00" />
     <MESSAGE value="Commit 22.6.11 - 20:00" />
     <MESSAGE value="Commit 22.6.12 - 20:00" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.6.12 - 20:00" />
+    <MESSAGE value="Commit 22.6.13 - 20:00" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.6.13 - 20:00" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
