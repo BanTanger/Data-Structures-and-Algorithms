@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.6.19 - 20:00" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.6.20 - 20:00">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/double_pointer/array/LC80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/double_pointer/int_reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/generate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/linkedlist/mergeArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/linkedlist/mergeArr_good.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/str/publicPrefixLong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bantanger/leetcode/double_pointer/LC1089.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/double_pointer/array/LC1089.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bantanger/leetcode/double_pointer/LC_167_towSumⅡ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/double_pointer/array/LC_167_towSumⅡ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bantanger/leetcode/double_pointer/LC_344_reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/double_pointer/array/LC_344_reverse.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,29 +97,14 @@
       <recent name="E:\Java 学习项目集合\Data-Structures-and-Algorithms\src\com\bantanger\leetcode\Question_of_the_day\may\data_2022_05_28" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bantanger.leetcode.linkedlist" />
       <recent name="com.bantanger.leetcode.Question_of_the_day.june.data_2022_06_12" />
       <recent name="com.bantanger.leetcode.Question_of_the_day.june.data_2022_06_11" />
       <recent name="com.bantanger.leetcode.Question_of_the_day.june.data_2022_06_07" />
       <recent name="com.bantanger.leetcode.Question_of_the_day.may.data_2022_06_05" />
-      <recent name="com.bantanger.leetcode.Question_of_the_day.may.data_2022_06_03" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC2243">
-    <configuration name="LC2243 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Data-Structures-and-Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.weekly_competition.c289.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.weekly_competition.c289" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.weekly_competition.c289.LC2243" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.mergeArr">
     <configuration name="LC2243 (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
@@ -169,13 +165,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="mergeArr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures-and-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.leetcode.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.linkedlist.mergeArr" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.mergeArr" />
         <item itemvalue="JUnit.LC2243" />
         <item itemvalue="JUnit.LC2243 (4)" />
         <item itemvalue="JUnit.LC2243 (3)" />
         <item itemvalue="JUnit.LC2243 (5)" />
-        <item itemvalue="JUnit.LC2243 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -244,13 +255,8 @@
       <workItem from="1654703030445" duration="33537000" />
       <workItem from="1655130369539" duration="22104000" />
       <workItem from="1655453578019" duration="16390000" />
-    </task>
-    <task id="LOCAL-00058" summary="Commit 22.4.28 - 22:26">
-      <created>1651155224759</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1651155224760</updated>
+      <workItem from="1655737629909" duration="623000" />
+      <workItem from="1655803650554" duration="4934000" />
     </task>
     <task id="LOCAL-00059" summary="Commit 22.4.29 - 22:26">
       <created>1651210270984</created>
@@ -588,7 +594,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655644595823</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="Commit 22.6.20 - 20:00">
+      <created>1655737649759</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1655737649760</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -608,7 +621,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Commit 22.5.20 - 20:00" />
     <MESSAGE value="Commit 22.5.21 - 20:00" />
     <MESSAGE value="Commit 22.5.22 - 20:00" />
     <MESSAGE value="Commit 22.5.23 - 20:00" />
@@ -633,7 +645,8 @@
     <MESSAGE value="Commit 22.6.16 - 20:00" />
     <MESSAGE value="Commit 22.6.17 - 20:00" />
     <MESSAGE value="Commit 22.6.19 - 20:00" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.6.19 - 20:00" />
+    <MESSAGE value="Commit 22.6.20 - 20:00" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.6.20 - 20:00" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1077,6 +1090,11 @@
           <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/weekly_competition/c289/LC2243.java</url>
           <line>22</line>
           <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/linkedlist/mergeArr.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="175" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

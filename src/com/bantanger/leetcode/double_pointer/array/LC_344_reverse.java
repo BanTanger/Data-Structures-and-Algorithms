@@ -1,4 +1,4 @@
-package com.bantanger.leetcode.double_pointer;
+package com.bantanger.leetcode.double_pointer.array;
 
 /**
  * @author bantanger 半糖
