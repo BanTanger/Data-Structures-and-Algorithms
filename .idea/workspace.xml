@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.6.23 - 20:00" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.6.24 - 20:00" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -249,13 +249,7 @@
       <workItem from="1655867115137" duration="1909000" />
       <workItem from="1655905113806" duration="418000" />
       <workItem from="1655984887210" duration="686000" />
-    </task>
-    <task id="LOCAL-00062" summary="Commit 22.5.3 - 20:00">
-      <created>1651587085427</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1651587085427</updated>
+      <workItem from="1656085926494" duration="640000" />
     </task>
     <task id="LOCAL-00063" summary="Commit 22.5.4 - 20:00">
       <created>1651674892968</created>
@@ -593,7 +587,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655984960040</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="Commit 22.6.24 - 20:00">
+      <created>1656085943404</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1656085943405</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -613,7 +614,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Commit 22.5.24 - 20:00" />
     <MESSAGE value="Commit 22.5.25 - 20:00" />
     <MESSAGE value="Commit 22.5.26 - 20:00" />
     <MESSAGE value="Commit 22.5.27 - 20:00" />
@@ -638,7 +638,8 @@
     <MESSAGE value="Commit 22.6.21 - 20:00" />
     <MESSAGE value="Commit 22.6.22 - 20:00" />
     <MESSAGE value="Commit 22.6.23 - 20:00" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.6.23 - 20:00" />
+    <MESSAGE value="Commit 22.6.24 - 20:00" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.6.24 - 20:00" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
