@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.6.25 - 20:00">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/dynamic_programming/subarray/LC522.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.6.27 - 20:00">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/sort/Quick_Sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -253,14 +253,7 @@
       <workItem from="1655867115137" duration="1909000" />
       <workItem from="1655905113806" duration="418000" />
       <workItem from="1655984887210" duration="686000" />
-      <workItem from="1656085926494" duration="3414000" />
-    </task>
-    <task id="LOCAL-00064" summary="Commit 22.5.6 - 20:00">
-      <created>1651830997987</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1651830997987</updated>
+      <workItem from="1656085926494" duration="6423000" />
     </task>
     <task id="LOCAL-00065" summary="Commit 22.5.6 - 20:00">
       <created>1651847383384</created>
@@ -598,7 +591,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656167075513</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="Commit 22.6.27 - 20:00">
+      <created>1656341822724</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1656341822724</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -618,7 +618,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Commit 22.5.26 - 20:00" />
     <MESSAGE value="Commit 22.5.27 - 20:00" />
     <MESSAGE value="Commit 22.5.28 - 20:00" />
     <MESSAGE value="Commit 22.5.29 - 20:00" />
@@ -643,7 +642,8 @@
     <MESSAGE value="Commit 22.6.23 - 20:00" />
     <MESSAGE value="Commit 22.6.24 - 20:00" />
     <MESSAGE value="Commit 22.6.25 - 20:00" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.6.25 - 20:00" />
+    <MESSAGE value="Commit 22.6.27 - 20:00" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.6.27 - 20:00" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
