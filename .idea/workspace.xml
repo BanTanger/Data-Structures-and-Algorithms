@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.7.1 - 20:00">
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.7.2 - 20:00">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/july/data_2022_7_3/LC556_NO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/Question_of_the_day/july/data_2022_7_3/LC556_yes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/double_pointer/array/LC31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/double_pointer/array/LC556.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,11 +92,11 @@
       <recent name="E:\Java 学习项目集合\Data-Structures-and-Algorithms\src\com\bantanger\leetcode\Question_of_the_day\may\data_2022_05_28" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bantanger.leetcode.Question_of_the_day.july.data_2022_7_" />
+      <recent name="com.bantanger.leetcode.Question_of_the_day.july.data_2022_7_2" />
       <recent name="com.bantanger.leetcode.Question_of_the_day.june.data_2022_06_23" />
       <recent name="com.bantanger.leetcode.linkedlist" />
       <recent name="com.bantanger.leetcode.Question_of_the_day.june.data_2022_06_12" />
-      <recent name="com.bantanger.leetcode.Question_of_the_day.june.data_2022_06_11" />
-      <recent name="com.bantanger.leetcode.Question_of_the_day.june.data_2022_06_07" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.LC522.test">
@@ -253,14 +257,7 @@
       <workItem from="1655905113806" duration="418000" />
       <workItem from="1655984887210" duration="686000" />
       <workItem from="1656085926494" duration="8506000" />
-      <workItem from="1656684176407" duration="1411000" />
-    </task>
-    <task id="LOCAL-00068" summary="Commit 22.5.9 - 20:00">
-      <created>1652106473828</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1652106473828</updated>
+      <workItem from="1656684176407" duration="5161000" />
     </task>
     <task id="LOCAL-00069" summary="Commit 22.5.10 - 20:00">
       <created>1652185949145</created>
@@ -598,7 +595,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656684275023</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="Commit 22.7.2 - 20:00">
+      <created>1656774956253</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1656774956253</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -618,7 +622,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Commit 22.5.30 - 20:00" />
     <MESSAGE value="Commit 22.6.2 - 20:00" />
     <MESSAGE value="Commit 22.6.6 - 20:00" />
     <MESSAGE value="Commit 22.6.7 - 20:00" />
@@ -643,7 +646,8 @@
     <MESSAGE value="Commit 22.6.28 - 20:00" />
     <MESSAGE value="Commit 22.6.29 - 20:00" />
     <MESSAGE value="Commit 22.7.1 - 20:00" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.7.1 - 20:00" />
+    <MESSAGE value="Commit 22.7.2 - 20:00" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.7.2 - 20:00" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
