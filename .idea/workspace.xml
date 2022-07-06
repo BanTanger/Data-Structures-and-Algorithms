@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.7.4 - 20:00">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/weekly_competition/LC1394.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/weekly_competition/LC1455.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.7.5 - 20:00">
+      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/str/LC1910.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,91 +96,89 @@
       <recent name="com.bantanger.leetcode.Question_of_the_day.june.data_2022_06_23" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC1394.test">
-    <configuration name="LC1394.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LC1910 (4)">
+    <configuration name="LC1910 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.weekly_competition.*" />
+          <option name="PATTERN" value="com.bantanger.leetcode.str.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.weekly_competition" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.weekly_competition.LC1394" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LC1985 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Data-Structures-and-Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.sort.quick_choose.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.sort.quick_choose" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.sort.quick_choose.LC1985" />
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.str" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.str.LC1910" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC1985" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC1910 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.sort.quick_choose.*" />
+          <option name="PATTERN" value="com.bantanger.leetcode.str.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.sort.quick_choose" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.sort.quick_choose.LC1985" />
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.str" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.str.LC1910" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC522" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC1910 (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.dynamic_programming.subarray.*" />
+          <option name="PATTERN" value="com.bantanger.leetcode.str.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.dynamic_programming.subarray" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.dynamic_programming.subarray.LC522" />
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.str" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.str.LC1910" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC522.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC1910 (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bantanger.leetcode.dynamic_programming.subarray.*" />
+          <option name="PATTERN" value="com.bantanger.leetcode.str.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.dynamic_programming.subarray" />
-      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.dynamic_programming.subarray.LC522" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.str" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.str.LC1910" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC1910" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures-and-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bantanger.leetcode.str.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bantanger.leetcode.str" />
+      <option name="MAIN_CLASS_NAME" value="com.bantanger.leetcode.str.LC1910" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LC1394.test" />
-        <item itemvalue="JUnit.LC1985 (1)" />
-        <item itemvalue="JUnit.LC1985" />
-        <item itemvalue="JUnit.LC522.test" />
-        <item itemvalue="JUnit.LC522" />
+        <item itemvalue="JUnit.LC1910 (4)" />
+        <item itemvalue="JUnit.LC1910 (3)" />
+        <item itemvalue="JUnit.LC1910 (2)" />
+        <item itemvalue="JUnit.LC1910 (1)" />
+        <item itemvalue="JUnit.LC1910" />
       </list>
     </recent_temporary>
   </component>
@@ -256,14 +253,7 @@
       <workItem from="1655905113806" duration="418000" />
       <workItem from="1655984887210" duration="686000" />
       <workItem from="1656085926494" duration="8506000" />
-      <workItem from="1656684176407" duration="13822000" />
-    </task>
-    <task id="LOCAL-00071" summary="Commit 22.5.13 - 20:00">
-      <created>1652441680007</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1652441680007</updated>
+      <workItem from="1656684176407" duration="14771000" />
     </task>
     <task id="LOCAL-00072" summary="Commit 22.5.14 - 20:00">
       <created>1652541169365</created>
@@ -601,7 +591,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656902114599</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="Commit 22.7.5 - 20:00">
+      <created>1657029776040</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1657029776040</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -621,7 +618,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Commit 22.6.7 - 20:00" />
     <MESSAGE value="Commit 22.6.8 - 20:00" />
     <MESSAGE value="Commit 22.6.9 - 20:00" />
     <MESSAGE value="Commit 22.6.10 - 20:00" />
@@ -646,7 +642,8 @@
     <MESSAGE value="Commit 22.7.2 - 20:00" />
     <MESSAGE value="Commit 22.7.3 - 20:00" />
     <MESSAGE value="Commit 22.7.4 - 20:00" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.7.4 - 20:00" />
+    <MESSAGE value="Commit 22.7.5 - 20:00" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.7.5 - 20:00" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1125,6 +1122,16 @@
           <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/weekly_competition/LC1394.java</url>
           <line>32</line>
           <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/str/LC1910.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bantanger/leetcode/str/LC1910.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="185" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
