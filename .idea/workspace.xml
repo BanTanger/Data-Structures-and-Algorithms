@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.7.5 - 20:00">
-      <change afterPath="$PROJECT_DIR$/src/com/bantanger/leetcode/str/LC1910.java" afterDir="false" />
+    <list default="true" id="ae387478-496c-47a7-b18a-0699326fd1d4" name="Changes" comment="Commit 22.7.6 - 20:00">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -254,13 +253,7 @@
       <workItem from="1655984887210" duration="686000" />
       <workItem from="1656085926494" duration="8506000" />
       <workItem from="1656684176407" duration="14771000" />
-    </task>
-    <task id="LOCAL-00072" summary="Commit 22.5.14 - 20:00">
-      <created>1652541169365</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1652541169365</updated>
+      <workItem from="1657120811263" duration="1865000" />
     </task>
     <task id="LOCAL-00073" summary="Commit 22.5.15 - 20:00">
       <created>1652623238319</created>
@@ -598,7 +591,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657029776040</updated>
     </task>
-    <option name="localTasksCounter" value="121" />
+    <task id="LOCAL-00121" summary="Commit 22.7.6 - 20:00">
+      <created>1657120825277</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1657120825278</updated>
+    </task>
+    <option name="localTasksCounter" value="122" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -618,7 +618,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Commit 22.6.8 - 20:00" />
     <MESSAGE value="Commit 22.6.9 - 20:00" />
     <MESSAGE value="Commit 22.6.10 - 20:00" />
     <MESSAGE value="Commit 22.6.11 - 20:00" />
@@ -643,7 +642,8 @@
     <MESSAGE value="Commit 22.7.3 - 20:00" />
     <MESSAGE value="Commit 22.7.4 - 20:00" />
     <MESSAGE value="Commit 22.7.5 - 20:00" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.7.5 - 20:00" />
+    <MESSAGE value="Commit 22.7.6 - 20:00" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 22.7.6 - 20:00" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
